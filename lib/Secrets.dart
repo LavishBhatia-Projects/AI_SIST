@@ -1,0 +1,1 @@
+const OpenAiApi='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';
