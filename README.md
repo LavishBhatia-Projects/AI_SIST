@@ -1,4 +1,4 @@
-# AI_SIST
+# AI-SIST
 AI-SIST: Your Personal AI Voice Assistant
 
 AI-SIST is an intelligent voice assistant app that brings the power of AI directly to your device. Using advanced natural language processing through the OpenAI API, AI-SIST can generate both text and images in response to your spoken commands. Whether you need a quick answer to a question, creative content, or a visual representation of an idea, AI-SIST has you covered.
